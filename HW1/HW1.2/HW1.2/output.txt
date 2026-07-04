@@ -1,8 +1,0 @@
-{'name': '_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=5605701734334942513&skey=@crypt_ab3e93f4_bbea51c995bc3a100fcadfdb46c8bf61&mmweb_appid=wx_webfilehelper.jpg', 'resolution': '1280 * 1879', 'channel': 3}
-{'name': '_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6017886868446047609&skey=@crypt_ab3e93f4_bbea51c995bc3a100fcadfdb46c8bf61&mmweb_appid=wx_webfilehelper.jpg', 'resolution': '1920 * 1080', 'channel': 3}
-{'name': '_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=5944395163813053046&skey=@crypt_ab3e93f4_bbea51c995bc3a100fcadfdb46c8bf61&mmweb_appid=wx_webfilehelper.jpg', 'resolution': '1706 * 960', 'channel': 3}
-{'name': '_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=3204327432483607788&skey=@crypt_ab3e93f4_bbea51c995bc3a100fcadfdb46c8bf61&mmweb_appid=wx_webfilehelper.jpg', 'resolution': '2275 * 1280', 'channel': 3}
-{'name': '_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=8503668201734254787&skey=@crypt_ab3e93f4_bbea51c995bc3a100fcadfdb46c8bf61&mmweb_appid=wx_webfilehelper.jpg', 'resolution': '2275 * 1279', 'channel': 3}
-{'name': '_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=5120676510062040331&skey=@crypt_ab3e93f4_bbea51c995bc3a100fcadfdb46c8bf61&mmweb_appid=wx_webfilehelper.jpg', 'resolution': '2276 * 1279', 'channel': 3}
-{'name': '_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=5082297145364458622&skey=@crypt_ab3e93f4_bbea51c995bc3a100fcadfdb46c8bf61&mmweb_appid=wx_webfilehelper.jpg', 'resolution': '2376 * 1280', 'channel': 3}
-{'name': '_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6513008039730799688&skey=@crypt_ab3e93f4_bbea51c995bc3a100fcadfdb46c8bf61&mmweb_appid=wx_webfilehelper.jpg', 'resolution': '1706 * 960', 'channel': 3}
